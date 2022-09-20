@@ -2,4 +2,3 @@ node_modules/
 dist/
 Dockerfile
 deploy.sh
-deploy/

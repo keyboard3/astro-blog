@@ -3,7 +3,10 @@ layout: '@/templates/BasePage.astro'
 title: 实验室
 pubDate: 2022-09-21 10:06:23
 ---
-自己做的一些有意思的实践
+大前端从业者，擅长 web 开发，平时喜欢捣鼓点小玩具，对主流语言 c++、kotlin、swift、dart、golang、rust等都比较感兴趣
+
+---
+
 - 有意思的工程方案落地
   - Node 全栈无痛升级方案的实践: [next-nest](https://github.com/keyboard3/next-nest), [egg-midway-next](https://github.com/keyboard3/egg-midway-next), [next-daruk](https://github.com/keyboard3/next-daruk)
   - 基于 github workflow + k3s ci/cd 实践: [golang-deploy](https://github.com/keyboard3/golang-deploy)、[nginx-gateway](https://github.com/keyboard3/nginx-gateway)、[next-nest](https://github.com/keyboard3/next-nest)

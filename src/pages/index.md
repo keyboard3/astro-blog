@@ -8,7 +8,9 @@ pubDate: 2022-09-21 10:06:23
 ---
 
 - 有意思的工程方案落地
-  - Node 全栈无痛升级方案的实践: [next-nest](https://github.com/keyboard3/next-nest), [egg-midway-next](https://github.com/keyboard3/egg-midway-next), [next-daruk](https://github.com/keyboard3/next-daruk)
+  - Node 全栈无痛升级方案的实践: 
+    - 创建应用的命令行工具: [create-fullstack-node-app](https://github.com/keyboard3/create-fullstack-node-app)
+    - 例子: [next-nest](https://github.com/keyboard3/next-nest), [egg-midway-next](https://github.com/keyboard3/egg-midway-next)
   - 基于 github workflow + k3s ci/cd 实践: [golang-deploy](https://github.com/keyboard3/golang-deploy)、[nginx-gateway](https://github.com/keyboard3/nginx-gateway)、[next-nest](https://github.com/keyboard3/next-nest)
   - 实现类似 Next.js 的按需编译的方案: [condition-compile-plugin](https://github.com/keyboard3/condition-compile-plugin),[babel-ts-parse](https://github.com/keyboard3/js-custom/blob/main/babel/demo/parseRoutes.js)
 - 有意思的拓展项目

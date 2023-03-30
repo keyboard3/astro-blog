@@ -3,11 +3,12 @@ layout: '@/templates/BasePage.astro'
 title: 实验室
 pubDate: 2022-09-21 10:06:23
 ---
-大前端从业者，擅长 web 开发，平时喜欢捣鼓点小玩具，对主流语言 c++、kotlin、swift、dart、golang、rust等都比较感兴趣
+全栈，擅长 web 开发，平时喜欢捣鼓点小玩具，对主流语言 c++、kotlin、swift、dart、golang、rust等都比较感兴趣
 
 ---
 
 - 有意思的工程方案落地
+  - 将 NextJs 的服务端渲染过程转译成 .Net 的 Razor 视图引擎的视图 [nextjs-razor](https://github.com/keyboard3/nextjs-razor)
   - Node 全栈无痛升级方案的实践: 
     - 创建应用的命令行工具: [create-fullstack-node-app](https://github.com/keyboard3/create-fullstack-node-app)
     - 例子: [next-nest](https://github.com/keyboard3/next-nest), [egg-midway-next](https://github.com/keyboard3/egg-midway-next)
